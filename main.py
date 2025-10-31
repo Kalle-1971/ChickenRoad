@@ -1,5 +1,5 @@
 """
-Korrigierte Hauptdatei - Sicherstellung der korrekten Initialisierungsreihenfolge
+Hauptdatei
 """
 import ursina
 from ursina import *
@@ -302,5 +302,6 @@ for i in range(15):
 world_generator.extend_level(5)
 
 print("✅ Spiel gestartet - Bewegung mit W,A,S,D möglich")
+
 
 app.run()
