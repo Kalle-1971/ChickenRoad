@@ -33,7 +33,7 @@ move_cooldown = settings_manager.game_settings["move_cooldown"]
 last_move_time = 0
 
 # Fenster konfigurieren
-window.fullscreen = False
+window.fullscreen = True
 window.borderless = settings_manager.display_settings.get("window_borderless", False)
 window.title = 'Crossy Road Clone'
 window.exit_button.visible = False
@@ -305,3 +305,4 @@ print("✅ Spiel gestartet - Bewegung mit W,A,S,D möglich")
 
 
 app.run()
+
