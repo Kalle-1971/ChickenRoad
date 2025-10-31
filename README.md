@@ -81,3 +81,12 @@ git clone https://github.com/Kalle-1971/chickenroad.git
 
 # Wechsle in das Projektverzeichnis
 cd chickenroad
+
+# Checke deine Python Version (mind 3.13)
+python --version
+
+# installiere Ursina
+python pip install ursina==8.1.1
+
+# Spiel Starten
+python main.py
