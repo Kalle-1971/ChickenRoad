@@ -1,0 +1,22 @@
+{
+  "game_settings": {
+    "tile_size": 1,
+    "level_width": 12,
+    "min_car_speed": 1.5,
+    "max_car_speed": 5,
+    "car_spawn_chance": 0.18,
+    "move_cooldown": 0.1,
+    "tree_spawn_chance": 0.7,
+    "min_trees_per_lane": 3,
+    "max_trees_per_lane": 6,
+    "tree_spawn_distance": 2.5,
+    "cleanup_distance": 120
+  },
+  "display_settings": {
+    "window_fullscreen": true,
+    "window_borderless": true,
+    "camera_fov": 80,
+    "camera_near": 0.1,
+    "camera_far": 100.0
+  }
+}
