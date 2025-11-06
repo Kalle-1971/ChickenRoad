@@ -13,7 +13,7 @@
 
 <br>
 
-## 🎮 Über das Spiel
+## 🎮 Über das Spield
 
 ChickenRoad ist ein unterhaltsames 3D-Spiel, bei dem du ein Huhn durch eine gefährliche Welt voller Autos und Hindernisse steuerst. Das Spiel ist inspiriert vom beliebten Mobile Game "Crossy Road" und bietet eine moderne, objektorientierte Implementierung mit Python.
 
